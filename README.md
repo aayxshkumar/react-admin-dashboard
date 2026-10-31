@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+> Learning project from January 2024, built following a React admin-dashboard tutorial.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
